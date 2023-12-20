@@ -108,4 +108,10 @@
 <div align="left">
   <img src="https://profile-counter.glitch.me/Akbar4964/count.svg?"  />
 </div>
+<div align="left">
+  <a href="https://open.spotify.com/user/31sqc2yi5tfklmrufs6niq4upfqe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqc2yi5tfklmrufs6niq4upfqe&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
