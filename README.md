@@ -108,5 +108,4 @@
 <div align="left">
   <img src="https://profile-counter.glitch.me/Akbar4964/count.svg?"  />
 </div>
-<img src="https://github.com/Akbar4964/Akbar4964/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
